@@ -1,12 +1,15 @@
 # Eda-In-R-Project
-Project Overview
-In this project,  R ois used and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies.
-Why this Project?
+
+## Project Overview
+In this project,  R programming language is used and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies.
+
+## Why this Project?
+
 Exploratory Data Analysis (EDA) is the numerical and graphical examination of data characteristics and relationships before formal, rigorous statistical analyses are applied.
 
 EDA can lead to insights, which may uncover to other questions, and eventually predictive models. It also is an important “line of defense” against bad data and is an opportunity to notice that your assumptions or intuitions about a data set are violated.
 
-What will I learn?
+## What will I learn?
 After completing the project, you will:
 
 Understand the distribution of a variable and to check for anomalies and outliers
@@ -17,3 +20,8 @@ Learn powerful methods and visualizations for examining relationships among mult
 
 Report:
 Report can be seen as follows http://rpubs.com/Alina-Zeshan/425554
+
+## License
+
+The contents of this repository are covered under the [MIT License](LICENSE).
+
