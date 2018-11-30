@@ -42,6 +42,7 @@ A final section called “Reflection”
 This should contain a few sentences about your struggles, successes, and ideas for future exploration on the data set (see the Project Rubric for more information).
 
 # Report:
+
 Report can be seen as follows http://rpubs.com/Alina-Zeshan/425554
 
 ## License
